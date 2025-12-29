@@ -1,4 +1,4 @@
-# Templite — A Minimal Python Template Engine
+# Templite - A Minimal Python Template Engine
 
 This project is an educational implementation of a **minimal template engine in Python**, inspired by the book ***500 Lines or Less*** by **A. Jesse Jiryu Davis and Guido van Rossum**.
 
